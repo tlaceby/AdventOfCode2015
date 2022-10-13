@@ -1,5 +1,5 @@
 // --- Day 2: I Was Told There Would Be No Math ---
-// https://adventofcode.com/2015/day/1
+// https://adventofcode.com/2015/day/2
 
 use std::fs::read_to_string;
 
