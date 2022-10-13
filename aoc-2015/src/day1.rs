@@ -5,7 +5,6 @@
 // - Close Paren -> decriment flor
 
 pub fn not_quiet_lisp() {
-    println!("\nDay 01 - Advent Of Code 2015:");
     let mut floor = 0;
     let mut set_floor_index = false;
     let contents = std::fs::read_to_string("./inputs/day1").unwrap();
